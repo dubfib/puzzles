@@ -1,4 +1,4 @@
-const input = "(3, 5, 1, 9, 7)";
+const input = "(6, 9, 5, 2, 4)";
 
 let number_array = [];
 const string_array = input.replace("(", "").replace(")", "").split(", ");
